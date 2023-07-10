@@ -1,7 +1,4 @@
-# Project-9-7
-
-
 UPDATES
-
-**Added Logo
-**Changed Colour Scheme
+Added Logo
+Changed Colour Scheme
+Fixed User Login
